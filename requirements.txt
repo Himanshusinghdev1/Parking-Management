@@ -1,0 +1,40 @@
+# Core Libraries
+numpy
+pandas
+matplotlib
+seaborn
+notebook
+opencv-python
+python-box
+
+# Deep Learning & Computer Vision
+tensorflow-macos==2.10.0
+tensorflow-metal
+torch
+torchvision
+tensorflow
+keras
+scikit-learn
+scipy
+pyYAML
+ensure
+joblib
+types-PyYAML
+Flask-Cors
+gdown
+
+ultralytics  # For YOLOv8
+mmdetection  # For MMDetection-based models
+
+# Image Processing & Utilities
+tqdm
+albumentations
+Pillow
+
+# Web & API (If needed)
+flask
+
+# Experiment Tracking (Optional)
+mlflow
+dagshub
+-e .
